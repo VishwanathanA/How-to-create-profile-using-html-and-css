@@ -1,0 +1,23 @@
+.row{
+    border: 1px solid;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    background-color:rgb(151, 154, 154);
+}
+.continer{
+    margin: 150px 460px;
+}
+.section .continer .row h1,p,i{
+    text-align: center;
+}
+.section .continer .row{
+    margin: 0px 40px;
+}
+i{
+    font-size: 150px;
+    margin-top: 40px;
+    width: 150;
+    height: 150;
+    padding: 40px;
+}
